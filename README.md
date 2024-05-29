@@ -6,6 +6,7 @@
 🌱 **Currently learning**
 - Bluetooth protocol stack
 - BlueZ library and it's API
+<br></br>
 
 ♥️ **My passions**
 - Technology and software
