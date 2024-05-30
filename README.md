@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Andrew</h1>
-<h3 align="center">A devoted programming enthusiast from Poland</h3>
+<h3 align="center">A devoted programming enthusiast from Poland 🇵🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndr3www&label=Profile%20views&color=1c71d8&style=flat" alt="ndr3www" /> </p>
 
