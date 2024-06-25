@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndr3www&label=Profile%20views&color=1c71d8&style=flat" alt="ndr3www" /> </p>
 
-🌱 **Currently learning**
-- Bluetooth protocol stack
-- BlueZ library and it's API
-<br></br>
-
 ♥️ **My passions**
 - Technology and software
 - Computer hardware
