@@ -73,11 +73,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 
-  <!-- GLFW -->
-  <a href="https://www.glfw.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3905364?s=48&v=4" alt="glfw" width="40" height="40"/>
-  </a>
-
   <!-- Linux -->
   <a href="https://www.linux.com/what-is-linux/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
