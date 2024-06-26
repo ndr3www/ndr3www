@@ -53,6 +53,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rustacean-orig-noshadow.svg" alt="rust" width="40" height="40"/>
   </a>
 
+  <!-- BlueZ -->
+  <a href="https://www.bluez.org/about/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/57395048?s=200&v=4" alt="bluez" width="40" height="40"/>
+  </a>
+  
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -61,6 +66,11 @@
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- GLFW -->
+  <a href="https://www.glfw.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/3905364?s=48&v=4" alt="glfw" width="40" height="40"/>
   </a>
 
   <!-- Linux -->
@@ -76,6 +86,16 @@
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+
+  <!-- OpenGL -->
+  <a href="https://en.wikipedia.org/wiki/OpenGL" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="80" height="40"/>
+  </a>
+
+  <!-- SDL -->
+  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" alt="sdl" width="80" height="40"/>
   </a>
 </p>
 
