@@ -57,6 +57,11 @@
   <a href="https://www.bluez.org/about/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/57395048?s=200&v=4" alt="bluez" width="40" height="40"/>
   </a>
+
+  <!-- CMake -->
+  <a href="https://cmake.org/about/" target="_blank" rel="noreferrer">
+    <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" alt="cmake" width="40" height="40"/>
+  </a>
   
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
