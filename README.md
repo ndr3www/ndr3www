@@ -1,5 +1,5 @@
 <h3 align="left">Hello there 👋, I'm Andrew</h3>
-<p align="left">A low-level stuff enjoyer and occasional FOSS developer</p>
+<p align="left">A recreational programmer and low-level stuff enjoyer</p>
 <h1 align="left">👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾</h1>
 
 <p align="left">
